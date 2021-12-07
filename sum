@@ -1,0 +1,3 @@
+s = "manirathnam"
+  print(s[::-1])
+
